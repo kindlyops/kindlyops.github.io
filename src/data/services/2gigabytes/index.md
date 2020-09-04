@@ -1,6 +1,8 @@
 ---
 category: 'services'
-title: 'Graphic Design'
+title: 'Live Video Events'
 icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'WE ARE A TEAM OF AV STREAMING PRODUCERS WHO SPECIALIZE IN THE REMOTE BROADCASTING OF CORPORATE VIRTUAL CONFERENCES AND OTHER LIVE STREAM EVENTS.'
+linkTo: 'https://www.2gigabytes.io/'
+linkText: 'Learn more'
 ---
