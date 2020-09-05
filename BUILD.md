@@ -43,4 +43,3 @@ This is a personal website / blog using [Gatsby](https://www.gatsbyjs.org/), [Ma
     ```
 
     Your production site is now running at `http://localhost:9000`
-
