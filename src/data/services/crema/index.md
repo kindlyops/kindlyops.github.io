@@ -1,7 +1,7 @@
 ---
 category: 'services'
 title: 'Subscription Specialty Coffee'
-icon: 'mug-hot'
+icon: 'coffee'
 description: 'Trying the best coffees in the world
 without ever leaving your house.'
 linkTo: 'https://crema.co/'
