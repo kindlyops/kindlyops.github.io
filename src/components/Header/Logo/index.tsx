@@ -14,9 +14,9 @@ const Logo: React.FC = () => {
           title
         }
       }
-      placeholderImage: file(relativePath: { eq: "profile.jpg" }) {
+      placeholderImage: file(relativePath: { eq: "Kindly-Ops-Logo-Medium.png" }) {
         childImageSharp {
-          fluid(maxWidth: 80) {
+          fluid(maxWidth: 160) {
             ...GatsbyImageSharpFluid
           }
         }

@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
 title: 'Kindly Ops Collective'
-subtitle: 'A community of self-funded startups.'
-content: 'A directory of our community members small businesses!'
+subtitle: 'A community of independent, bootstrapped startups.'
+content: 'Interviews with founders & community members! Get inspired and make something!'
 linkTo: '/blog/'
-linkText: 'Community Resources'
+linkText: 'Interviews'
 ---

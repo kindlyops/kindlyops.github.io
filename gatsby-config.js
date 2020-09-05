@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
-    description: `Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    title: `Kindly Ops Collective`,
+    description: `A collection of independent business owners making good things!`,
+    author: `Kindly Ops`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -46,7 +46,7 @@ module.exports = {
         background_color: `#81e6d9`,
         theme_color: `#81e6d9`,
         display: `minimal-ui`,
-        icon: `src/assets/images/gatsby-icon.png`
+        icon: `src/assets/images/Bars-Only-Logo-Medium.png`
       }
     },
     `gatsby-plugin-offline`,

@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Address'
 icon: 'map-marker-alt'
-content: '235 Middle Neck Rd, Sands Point, New York, USA'
+content: 'PO Box 4599, PMB 26003, Portland ME 04112-4599 US'
 ---
